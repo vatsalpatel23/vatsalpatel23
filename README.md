@@ -1,73 +1,84 @@
+ <!-- PROFILE HEADER -->
+
 <h1 align="center">Hi 👋, I'm Vatsal Patel</h1>
 
 <h3 align="center">🎓 Integrated MSc IT Student at LJ University, Ahmedabad</h3>
 
 <p align="center">
   <a href="https://github.com/vatsalpatel23">
-    <img src="https://img.shields.io/badge/GitHub-vatsalpatel23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-vatsalpatel23-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
-  <a href="https://instagram.com/va.tsal._.patel">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-16A34A?style=for-the-badge" alt="Always Learning" />
 </p>
 
 <p align="center">
-  💻 Aspiring Full-Stack Developer · 🚀 Building real-world projects · 🌱 Learning every day
+  💻 Aspiring Full-Stack Developer | 🚀 Building Real-World Projects | 🌱 Learning Something New Every Day
 </p>
 
-👨‍💻 About Me
-- 🎓 Pursuing Integrated MSc IT at LJ University, Ahmedabad
-- 🔭 Working on CampusX — Student Marketplace
-- 🌱 Learning Python, React, PHP, SQL, and full-stack development
-- 🤝 Interested in web development and open-source collaboration
-- 📫 Email: vp1293279@gmail.com
-- ⚡ I enjoy turning ideas into practical projects.
-🧰 Languages & Tools
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing Integrated MSc IT at **LJ University, Ahmedabad**
+- 🔭 Currently working on **CampusX — Student Marketplace**
+- 🌱 Learning **React.js, PHP API Integration, Python and Full-Stack Development**
+- 👯 Interested in collaborating on **Web Development and Open-Source Projects**
+- 💬 Ask me about **Python, PHP, React.js, SQL and Web Development**
+- 📫 Reach me at **vp1293279@gmail.com**
+- ⚡ I enjoy turning ideas into practical software projects.
+
+---
+
+## 🛠️ Languages and Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,react,js,html,css,bootstrap,mysql,git,github,vscode,linux" alt="Python, PHP, React, JavaScript, HTML, CSS, Bootstrap, MySQL, Git, GitHub, VS Code and Linux" />
+  <img src="https://skillicons.dev/icons?i=python,php,react,js,html,css,bootstrap,mysql,git,github,vscode,linux&theme=dark" alt="Languages and Tools" />
 </p>
 
-🚀 Featured Project
-🛍️ CampusX — Student Marketplace
-A student-focused marketplace concept intended to make campus buying and selling more reliable through verified listings, product quality checks, and duplicate-listing detection.
-Planned / used technologies: PHP, React, MySQL.
-<p>
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
   <a href="https://github.com/vatsalpatel23?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
   </a>
 </p>
 
-Replace the repository-list link above with the direct CampusX repository URL when you have confirmed it. No repository name has been guessed here.
+### 🛍️ CampusX — Student Marketplace
 
-📊 GitHub Statistics
-<p align="center">
-  <a href="https://github.com/vatsalpatel23">
-    <img src="https://github-readme-stats.vercel.app/api?username=vatsalpatel23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for Vatsal Patel" height="180" />
-  </a>
-  <a href="https://github.com/vatsalpatel23">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalpatel23&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" height="180" />
-  </a>
-</p>
+A student-focused marketplace project aimed at making campus buying and selling more reliable through verified listings, product quality checks and duplicate-listing detection.
 
-🔥 Contribution Streak
-<p align="center">
-  <a href="https://github.com/vatsalpatel23">
-    <img src="https://streak-stats.demolab.com?user=vatsalpatel23&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for Vatsal Patel" />
-  </a>
-</p>
+**Tech stack:** PHP, React, MySQL and related web technologies.
 
-📈 Contribution Activity Graph
-<p align="center">
-  <a href="https://github.com/vatsalpatel23">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalpatel23&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph for Vatsal Patel" width="100%" />
-  </a>
-</p>
+🔗 [Explore my repositories](https://github.com/vatsalpatel23?tab=repositories)
+
+> Replace the link above with the direct CampusX repository URL once you have confirmed the repository name and made it accessible.
+
+### 💡 More Projects
+
+Explore my other projects, experiments and learning repositories:
+
+➡️ [View All Repositories](https://github.com/vatsalpatel23?tab=repositories)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  If the graph image does not load, view my <a href="https://github.com/vatsalpatel23">GitHub profile and native contribution calendar</a>.
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vatsalpatel23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalpatel23&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
-🤝 Connect With Me
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vatsalpatel23&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://github.com/vatsalpatel23">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -80,5 +91,12 @@ Replace the repository-list link above with the direct CampusX repository URL wh
   </a>
 </p>
 
-<p align="center"><i>Build. Learn. Improve. Repeat. 🚀</i></p>
-<p align="center">Thanks for visiting my profile! ⭐</p>
+---
+
+<p align="center">
+  <i>"Build. Learn. Improve. Repeat. 🚀"</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
