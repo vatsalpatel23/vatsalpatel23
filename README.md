@@ -8,7 +8,6 @@
   <a href="https://github.com/vatsalpatel23">
     <img src="https://img.shields.io/badge/GitHub-vatsalpatel23-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-16A34A?style=for-the-badge" alt="Always Learning" />
 </p>
 
